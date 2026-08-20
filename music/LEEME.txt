@@ -1,0 +1,12 @@
+Coloca aquí tus archivos de música (.mp3).
+
+El reproductor busca por defecto estos nombres:
+  - cancion1.mp3
+  - cancion2.mp3
+  - cancion3.mp3
+
+Puedes cambiar los nombres, títulos y artistas editando el
+arreglo "tracks" en el archivo  js/player.js
+
+Ejemplo:
+  { title: "Perfect", artist: "Ed Sheeran", src: "music/perfect.mp3" }
