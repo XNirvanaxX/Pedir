@@ -8,7 +8,8 @@ const tracks = [
   { title: "Santuario de Girasol", artist: "Aisack1ng", src: "music/cancion1.mp3" },
   { title: "Que Locura Enamorarme de ti",   artist: "Eddie Santiago", src: "music/cancion2.mp3" },
   { title: "Lluvia, Tu me haces Falta, Mia",    artist: "Eddie Santiago", src: "music/cancion3.mp3" },
-  { title: "Corazon sin Cara",    artist: "Prince Royce", src: "music/cancion4.mp3" }
+  { title: "Corazon sin Cara",    artist: "Prince Royce", src: "music/cancion4.mp3" },
+  { title: "Quiero Perderme Contigo",    artist: "Jose Jose", src: "music/cancion5.mp3" }
 ];
 
 const audio       = document.getElementById('audio');
